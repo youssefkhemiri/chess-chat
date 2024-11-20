@@ -34,4 +34,4 @@ Send a POST request to /query-chatbot with a JSON body:
 }
 
 
-#### you will find many comment explaining the code too
+#### you will find many comments explaining the code too
